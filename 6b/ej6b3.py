@@ -83,5 +83,5 @@ def check_primes(nums: List[int]) -> List[bool]:
 
 # Si quieres probar tu código, descomenta las siguientes líneas y ejecuta el script
 # Si vols provar el teu codi, descomenta les línies següents i executa l'script
-#numbers_list = [1, 5, 11, 12, 13, 14, 15]
-#print(check_primes(numbers_list))
+numbers_list = [1, 5, 11, 12, 13, 14, 15]
+print(check_primes(numbers_list))
